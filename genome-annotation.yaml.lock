@@ -299,3 +299,13 @@ tools:
   - bbe51a1c2b6b
   - bd103884a09c
   tool_panel_section_label: Annotation
+- name: deepsig
+  owner: iuc
+  revisions:
+  - 8d9746627f77
+  tool_panel_section_label: Annotation
+- name: genenotebook_genenotebook_build
+  owner: gga
+  revisions:
+  - bd94e502872a
+  tool_panel_section_label: Annotation
