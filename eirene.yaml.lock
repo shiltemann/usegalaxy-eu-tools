@@ -145,6 +145,7 @@ tools:
   revisions:
   - 1b09315a3f87
   - 1e58bf51a0e5
+  - 86a45ba3d3f2
   - ae45992f969e
   - afc881c21a62
   tool_panel_section_label: Metabolomics
