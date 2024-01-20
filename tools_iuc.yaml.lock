@@ -457,6 +457,7 @@ tools:
   revisions:
   - 1f4933f5a323
   - 52742626480e
+  - 8b08ea650060
   - c7553ba39670
   - f20804c311de
   tool_panel_section_label: Annotation
@@ -467,6 +468,7 @@ tools:
   - 624606f7c996
   - 79e259afea34
   - 80323066acd4
+  - e95d52d295d7
   tool_panel_section_label: Annotation
 - name: mlst
   owner: iuc
@@ -486,6 +488,7 @@ tools:
   - 0ff17c7a18cd
   - 3b974afde673
   - 904fb55e9156
+  - b3d25fae5389
   tool_panel_section_label: Annotation
 - name: plasmidfinder
   owner: iuc
@@ -724,6 +727,7 @@ tools:
   - 71740308d412
   - 9ef6920c3089
   - da9d8bf98802
+  - df25d4fb79b7
   - ec9e21e9c71b
   - f3c89da3af16
   tool_panel_section_label: Assembly
@@ -1754,6 +1758,7 @@ tools:
   - 89d299153577
   - 8d3aff8ba8ad
   - a252d8415583
+  - d77a9c2a242d
   - ecb38e2798cd
   - ece21607a21d
   tool_panel_section_label: FASTA/FASTQ
@@ -3675,6 +3680,7 @@ tools:
   owner: iuc
   revisions:
   - 19035a7b1106
+  - 1d4bd12f01cf
   - 79450f7fd718
   - 978ae4147c29
   - b08ac10aed96
@@ -4531,6 +4537,7 @@ tools:
   - 4ef88f9a195d
   - 6a638de7915c
   - 8a0473eb465e
+  - 9da9706f7ca9
   - cfd50144a871
   tool_panel_section_label: Metagenomic Analysis
 - name: megan_blast2lca
