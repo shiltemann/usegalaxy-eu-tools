@@ -73,6 +73,7 @@ tools:
   - 1b0fc671187f
   - 700ae37e5c69
   - 7fd8dba15bd3
+  - dc5f72f6b1e9
   tool_panel_section_label: Imaging
 - name: landmark_registration
   owner: imgteam
