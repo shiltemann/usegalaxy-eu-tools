@@ -181,6 +181,7 @@ tools:
   owner: iuc
   revisions:
   - 28e29a3d0eda
+  - e48b10ce08b8
   tool_panel_section_label: Annotation
 - name: goseq
   owner: iuc
@@ -6409,6 +6410,7 @@ tools:
   - a52d2d93e595
   - acf4e47b734c
   - c877294f8025
+  - cbf3f518b668
   - d375502056f1
   - d999e774072a
   - e25d3acf6e68
