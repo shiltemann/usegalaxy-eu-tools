@@ -890,10 +890,12 @@ tools:
   owner: bgruening
   revisions:
   - 190175f4e143
+  - 1c6c961851de
   tool_panel_section_label: Mapping
 - name: graphmap_overlap
   owner: bgruening
   revisions:
+  - 815251b32ccc
   - d0a712cf0518
   tool_panel_section_label: Mapping
 - name: combine_metaphlan2_humann2
