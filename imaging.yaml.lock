@@ -10,6 +10,7 @@ tools:
 - name: overlay_images
   owner: imgteam
   revisions:
+  - 002f7bad3e82
   - 22ff7c705a83
   - 37662cbf44b8
   - 589af0005df5
@@ -26,12 +27,14 @@ tools:
 - name: 2d_histogram_equalization
   owner: imgteam
   revisions:
+  - 3f3783846dc0
   - 70316d792fc9
   - 77f7159d775a
   tool_panel_section_label: Imaging
 - name: 2d_simple_filter
   owner: imgteam
   revisions:
+  - 6c4b22ef2b81
   - dba87c4b32d3
   - f264ae82f735
   - f70b215d155c
@@ -39,6 +42,7 @@ tools:
 - name: anisotropic_diffusion
   owner: imgteam
   revisions:
+  - 097b803aeb5d
   - 17d3cfba9b5a
   - d13e26f576bc
   - e6987afa0484
@@ -52,6 +56,7 @@ tools:
   - 81f0cbca04a7
   - 8bccb36e055a
   - d4da97f51700
+  - e5c8e7e72373
   tool_panel_section_label: Imaging
 - name: 2d_local_threshold
   owner: imgteam
@@ -64,6 +69,7 @@ tools:
 - name: segmetrics
   owner: imgteam
   revisions:
+  - 4512751bccca
   - 7989264b5780
   - b6e88e7bf2fa
   - c496306c1cba
@@ -74,6 +80,7 @@ tools:
   - 1b0fc671187f
   - 700ae37e5c69
   - 7fd8dba15bd3
+  - 9b4830300f3a
   - dc5f72f6b1e9
   tool_panel_section_label: Imaging
 - name: landmark_registration
@@ -106,6 +113,7 @@ tools:
   revisions:
   - 17f5d0c3f8a3
   - 1ffdb07020ee
+  - 2f504e075496
   - 37b079c98c38
   - 974cf4357707
   - be9a815e2240
@@ -115,6 +123,7 @@ tools:
   owner: imgteam
   revisions:
   - 3a686b6aa7fc
+  - 499ad4d9aa13
   - 65e95d0b8838
   - a84822a0060c
   - aaac58d83043
@@ -165,6 +174,7 @@ tools:
   owner: imgteam
   revisions:
   - 6ad1d3cfdea1
+  - 8f76184ca03f
   - e576b73a2e2f
   tool_panel_section_label: Imaging
 - name: binary2labelimage
@@ -191,6 +201,7 @@ tools:
 - name: scale_image
   owner: imgteam
   revisions:
+  - 3179853faae9
   - 3e4231ed875e
   - c4c76f1ebad2
   - d09507d3fb0e
@@ -199,6 +210,7 @@ tools:
 - name: slice_image
   owner: imgteam
   revisions:
+  - 1faa7e3c94ff
   - 8856a7c85e4c
   - aacfbd7c4af6
   - f312d414f234
@@ -207,6 +219,7 @@ tools:
   owner: imgteam
   revisions:
   - 597b7ef44b05
+  - 7a2e2e3cf836
   - 9db1c22dbe17
   tool_panel_section_label: Imaging
 - name: concat_channels
@@ -214,6 +227,7 @@ tools:
   revisions:
   - 212627bfb759
   - 30517f733f7b
+  - 4c43875c790c
   - d42501109c05
   tool_panel_section_label: Imaging
 - name: points2binaryimage
@@ -255,6 +269,7 @@ tools:
   owner: imgteam
   revisions:
   - 0a53256b48c6
+  - 2436a8807ad1
   - 5791a7f65275
   - 6fdb3542a406
   - 96909b9d1df1
@@ -329,6 +344,7 @@ tools:
   - 85edbb7a436b
   - b07f4839ca77
   - f3360fbeda64
+  - fcadded98e61
   tool_panel_section_label: Imaging
 - name: image_info
   owner: imgteam
